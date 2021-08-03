@@ -1,4 +1,4 @@
-package edu.handong.csee.tested;
+package edu.handong.csee.test;
 
 public class FaultDir {
 

@@ -1,8 +1,9 @@
 package edu.handong.csee.test;
 import java.util.*;
 import org.junit.Assert;
+import org.junit.Test;
 
-import edu.handong.csee.tested.*;
+import static edu.handong.csee.test.FaultDir.*;
 
 
 public class TestCases {
